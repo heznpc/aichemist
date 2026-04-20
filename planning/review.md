@@ -67,11 +67,7 @@ fed0167 Initial commit: Burning Lead for Gold                       (2026-04-03)
 - Notation 제안이 *실행 가능 라이브러리* 부재로 형식 모델로 인정받기 어려움. CHAM과 직접 비교당하면 형식성 부족이 드러남.
 - 5개 TODO 실험이 모두 *paper와 별개로 후속 작업이 필요*하다는 것은 곧, *현재 paper만으로는 결정적 evidence가 없다*는 뜻.
 
-게재 전망:
-- *Patterns* (Cell), *AI & Society*: 적합도 높음, 50-60%.
-- *Issues in Science and Technology* (NAS), *Brookings Papers*: 정책 트랙 적합, 30-40%.
-- *Communications of the ACM* Viewpoints: 시의성 있음, 30%.
-- arXiv preprint로 시작 + Substack/blog 인용 캠페인이 더 효과적일 가능성.
+(venue-fit 분석 및 게재 전망은 submission 시점에 `submissions/<venue>/NOTES.md`로 분리.)
 
 ### 시장 가치: **중상위 (담론 형성/정책 자문에서 강함)**
 

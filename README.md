@@ -1,3 +1,11 @@
+Research Program: 5 (Synthetic Content and Measurement)
+Status: Concept note
+Relationship to other work: Companion to ai-slop-paper (Program 5 anchor)
+
+---
+
+This is a concept note, not a finished paper.
+
 # AI Chemist
 
 **The AGI Philosopher's Stone: AI as Modern Alchemy**
